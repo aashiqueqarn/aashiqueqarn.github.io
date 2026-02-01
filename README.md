@@ -9,8 +9,8 @@
       <p>
         📧 Email: aashiquekarn@gmail.com <br/>
         📞 Phone: +91-9008422080 <br/>
-        💼 LinkedIn: https://www.linkedin.com/in/aashique-karn-36b242144/ <br/>
-        🐙 GitHub: https://github.com/aashiqueqarn
+        💼 LinkedIn: <a>https://www.linkedin.com/in/aashique-karn-36b242144/<a> <br/>
+        🐙 GitHub: <a>https://github.com/aashiqueqarn<a>
       </p>
     </td>
   </tr>
@@ -31,7 +31,7 @@ Sambhram Institute of Technology, 2016-2020
 Computer Science and Engineering
 
 **M.Tech**  
-Indian Institute of Technology Jodhpur, 2025-207 
+Indian Institute of Technology Jodhpur, 2025-2027   
 Artificial Intelligence
 
 
