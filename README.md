@@ -71,7 +71,7 @@
     <td width="80%" valign="top" style="padding-left:15px;">
       <h2>👨‍💻 About Me</h2>
       <ul>
-        <li>Principal Engineer @ MMC | Full-stack Developer | **Angular, React, Node, Flutter, MongoDB, TypeScript, JavaScript, TypeScript(MEAN Stack)**. </li>
+        <li>Principal Engineer @ MMC | Full-stack Developer | <strong>Angular, React, Node, Flutter, MongoDB, TypeScript, JavaScript, TypeScript(MEAN Stack)</strong>. </li>
         <li>MEAN Stack specialist</li>
       </ul>
       <h2>🎓 Education</h2>
@@ -133,7 +133,7 @@
           <td>Python, Pandas, Numpy</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/aashiqueqarn/rag-intro">rag-intro/a></td>
+          <td><a href="https://github.com/aashiqueqarn/rag-intro">rag-intro</a></td>
           <td>Implementation of Retrieval Augmentation Generation(RAG).</td>
           <td>Python, Langchain</td>
         </tr>
