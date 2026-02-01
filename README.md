@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="20%">
-      <img src="ProfilePhoto.jpg" width="150" style="border-radius: 50%" />
+      <img src="/ProfilePhoto.jpg" width="150" style="border-radius: 50%" />
     </td>
     <td width="80%">
       <h1>Aashique Karn</h1>
@@ -116,9 +116,9 @@ Artificial Intelligence
 
 ## 📈 GitHub Stats  
 
-![GitHub Activity]([https://github-readme-activity-graph.vercel.app/graph?username=aashiqueqarn](https://github-readme-activity-graph.vercel.app/graph?username=aashiqueqarn))  
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=aashiqueqarn)
 
-![Streak Stats]([https://streak-stats.demolab.com/?user=aashiqueqarn](https://streak-stats.demolab.com/?user=aashiqueqarn))  
+![Streak Stats](https://streak-stats.demolab.com/?user=aashiqueqarn)  
 </td>
   </tr>
 </table>
