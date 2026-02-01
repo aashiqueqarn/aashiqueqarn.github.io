@@ -9,7 +9,7 @@
       <p>
         📧 Email: <a href="mailto:aashiquekarn@gmail.com">aashiquekarn@gmail.com</a><br/>
         📞 Phone: <a href="tel:+919008422080">+91-9008422080</a> <br/>
-        💼 LinkedIn: <a href="https://www.linkedin.com/in/aashique-karn-36b242144/" target="_blank">https://www.linkedin.com/in/aashique-karn-36b242144/ </a>a> <br/>
+        💼 LinkedIn: <a href="https://www.linkedin.com/in/aashique-karn-36b242144/" target="_blank">https://www.linkedin.com/in/aashique-karn-36b242144/ </a> <br/>
         🐙 GitHub: <a href="https://github.com/aashiqueqarn" target="_blank">https://github.com/aashiqueqarn </a>
       </p>
     </td>
