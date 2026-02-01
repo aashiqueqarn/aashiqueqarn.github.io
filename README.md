@@ -116,10 +116,9 @@ Artificial Intelligence
 
 ## 📈 GitHub Stats  
 
-![GitHub Activity]([https://github-readme-stats.vercel.app/api?username=aashiqueqarn&show_icons=true&theme=radical](https://github-readme-activity-graph.vercel.app/graph?username=aashiqueqarn))  
+![GitHub Activity]([https://github-readme-activity-graph.vercel.app/graph?username=aashiqueqarn](https://github-readme-activity-graph.vercel.app/graph?username=aashiqueqarn))  
 
-![Streak Stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=aashiqueqarn&layout=compact](https://streak-stats.demolab.com/?user=aashiqueqarn))  
-
-    </td>
+![Streak Stats]([https://streak-stats.demolab.com/?user=aashiqueqarn](https://streak-stats.demolab.com/?user=aashiqueqarn))  
+</td>
   </tr>
 </table>
