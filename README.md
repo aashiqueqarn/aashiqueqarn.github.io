@@ -71,8 +71,7 @@
     <td width="80%" valign="top" style="padding-left:15px;">
       <h2>👨‍💻 About Me</h2>
       <ul>
-        <li>Principal Engineer @ MMC</li>
-        <li>Full-stack Developer: Angular, React, Node, Flutter</li>
+        <li>Principal Engineer @ MMC | Full-stack Developer | **Angular, React, Node, Flutter, MongoDB, TypeScript, JavaScript, TypeScript(MEAN Stack)**. </li>
         <li>MEAN Stack specialist</li>
       </ul>
       <h2>🎓 Education</h2>
@@ -86,10 +85,10 @@
       </p>
       <h2>🏢 Companies</h2>
       <ul>
-        <li><b>Marsh McLennan</b> – Principal Engineer (2024–Present)</li>
-        <li><b>NeoSOFT</b> – Software Engineer (2024)</li>
-        <li><b>Josh Software</b> – Software Engineer (2022–2023)</li>
-        <li><b>Altorum Leren</b> – Software Developer (2020–2022)</li>
+        <li><b>Marsh McLennan, Pune</b> – Principal Engineer (April 2024 – Present)</li>
+        <li><b>NeoSOFT, Bengaluru</b> – Software Engineer (January 2024 - April 2024)</li>
+        <li><b>Josh Software, Bengaluru</b> – Software Engineer (June 2022 – December 2023)</li>
+        <li><b>Altorum Leren, Bengaluru</b> – Software Developer (July 2020 – May 2022)</li>
       </ul>
       <h2>📂 Public Repositories</h2>
       <table border="1" cellpadding="6">
@@ -99,19 +98,49 @@
           <th>Tech</th>
         </tr>
         <tr>
-          <td><a href="https://github.com/aashiqueqarn/repo-1">repo-1</a></td>
-          <td>Authentication system</td>
-          <td>Node, Mongo</td>
+          <td><a href="https://github.com/aashiqueqarn/Boat-in-a-river">Boat-in-a-river</a></td>
+          <td>OpenGL in C For driving a boat in a river.</td>
+          <td>C++, OpenGL</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/aashiqueqarn/repo-2">repo-2</a></td>
-          <td>Admin dashboard</td>
-          <td>Angular</td>
+          <td><a href="https://github.com/aashiqueqarn/WhatsAppBulkMessaging">WhatsAppBulkMessaging</a></td>
+          <td>Messaging in bulk in whatsapp in an event.</td>
+          <td>HTML, CSS, Tailwind, Javascript</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/aashiqueqarn/repo-3">repo-3</a></td>
-          <td>E-commerce API</td>
-          <td>Express</td>
+          <td><a href="https://github.com/aashiqueqarn/DichotomousSearchAlgorithm">DichotomousSearchAlgorithm</a></td>
+          <td>A derivative free methods used for one dimension optimization.</td>
+          <td>Python</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/aashiqueqarn/FibonacciSearchAlgorithm">FibonacciSearchAlgorithm</a></td>
+          <td>Fibonacci Search is one of the Derivative free optimization technique.</td>
+          <td>Python</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/aashiqueqarn/GoldenSectionSearchAlgorithm">GoldenSectionSearchAlgorithm</a></td>
+          <td>A derivative free methods used for one dimension optimization.</td>
+          <td>Python</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/aashiqueqarn/BisectionMethodAlgorithm">BisectionMethodAlgorithm</a></td>
+          <td>A derivative free methods used for one dimension optimization.</td>
+          <td>Python</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/aashiqueqarn/geneticAlgorithm">geneticAlgorithm</a></td>
+          <td>Genetic Algorithm.</td>
+          <td>Python, Pandas, Numpy</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/aashiqueqarn/rag-intro">rag-intro/a></td>
+          <td>Implementation of Retrieval Augmentation Generation(RAG).</td>
+          <td>Python, Langchain</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/aashiqueqarn/documentation-assistant">documentation-assistant</a></td>
+          <td>It uses techniques like embeddings, VectorDbs, Retrival, Memory, etc.</td>
+          <td>Python, Langchain</td>
         </tr>
       </table>
       <p>
