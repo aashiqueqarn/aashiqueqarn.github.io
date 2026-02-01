@@ -65,13 +65,13 @@
     <td width="80%" valign="top">
 
 ## 👨‍💻 About Me
-- Principal Engineer @ MMC | Full-stack Developer, Angular, React, Node, Flutter, MongoDB, TypeScript, JavaScript.
-- Full-Stack Developer with expertise in **MongoDB, Express.js, Node.js, Angular (MEAN Stack)**.  
+- Principal Engineer @ MMC | Full-stack Developer, Angular, React, Node, Flutter, MongoDB, TypeScript, JavaScript.   
+- Full-Stack Developer with expertise in **MongoDB, Express.js, Node.js, Angular (MEAN Stack)**.   
 
 
 ---
 
-## 🎓 Education
+## 🎓 Education   
 **B.Tech**  
 Sambhram Institute of Technology, 2016–2020  
 Computer Science and Engineering  
@@ -82,7 +82,7 @@ Artificial Intelligence
 
 ---
 
-## 🏢 Companies Worked
+## 🏢 Companies Worked   
 
 ### Marsh McLennan, Pune  
 **Role:** Principal Engineer  
@@ -102,23 +102,23 @@ Artificial Intelligence
 
 ---
 
-## 📂 Public GitHub Repositories
+## 📂 Public GitHub Repositories   
 
 | Repository | Description | Tech |
 |-----------|-------------|------|
 | [repo-1](https://github.com/aashiqueqarn/repo-1) | Authentication system | Node, Mongo |
 | [repo-2](https://github.com/aashiqueqarn/repo-2) | Admin dashboard | Angular |
 | [repo-3](https://github.com/aashiqueqarn/repo-3) | E-commerce API | Express |
-
-> 🔗 **Auto list:** [All Repositories](https://github.com/aashiqueqarn?tab=repositories)
+   
+> 🔗 **Auto list:** [All Repositories](https://github.com/aashiqueqarn?tab=repositories)   
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashiqueqarn&show_icons=true&theme=radical)
+![GitHub Activity]([https://github-readme-stats.vercel.app/api?username=aashiqueqarn&show_icons=true&theme=radical](https://github-readme-activity-graph.vercel.app/graph?username=aashiqueqarn))  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashiqueqarn&layout=compact)
+![Streak Stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=aashiqueqarn&layout=compact](https://streak-stats.demolab.com/?user=aashiqueqarn))  
 
     </td>
   </tr>
