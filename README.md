@@ -35,6 +35,17 @@
         <li>AmCharts</li>
         <li>Flutter</li>
       </ul>
+      <h3>Artificial Intelligence</h3>
+      <ul>
+        <li>Python</li>
+        <li>Machine Learning</li>
+        <li>Deep Learning</li>
+        <li>MLOps</li>
+        <li>RAG</li>
+        <li>Agentic AI</li>
+        <li>CNN</li>
+        <li>LangChain/LangGraph</li>
+      </ul>
       <h3>Backend</h3>
       <ul>
         <li>Node.js</li>
