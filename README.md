@@ -71,8 +71,9 @@
     <td width="80%" valign="top" style="padding-left:15px;">
       <h2>👨‍💻 About Me</h2>
       <ul>
-        <li>Principal Engineer @ MMC | Full-stack Developer | <strong>Angular, React, Node, Flutter, MongoDB, TypeScript, JavaScript, TypeScript(MEAN Stack)</strong>. </li>
+        <li>Principal Engineer @ MMC | <strong>Full-stack Developer</strong> | <strong>Angular, Python, PostgreSQL React, Node, Flutter, MongoDB, TypeScript, JavaScript, TypeScript(MEAN Stack)</strong>. </li>
         <li>MEAN Stack specialist</li>
+        <li>AI Developer</li>
       </ul>
       <h2>🎓 Education</h2>
       <p>
