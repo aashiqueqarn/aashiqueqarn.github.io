@@ -45,6 +45,9 @@
         <li>Agentic AI</li>
         <li>CNN</li>
         <li>LangChain/LangGraph</li>
+        <li>Github Copilot</li>
+        <li>AI Prompting</li>
+        <li>Prompt Engineering</li>
       </ul>
       <h3>Backend</h3>
       <ul>
@@ -56,6 +59,7 @@
         <li>Fastify</li>
         <li>JWT</li>
         <li>Django</li>
+        <li>Aspose</li>
       </ul>
       <h3>Database</h3>
       <ul>
@@ -85,6 +89,7 @@
         <li>Principal Engineer @ MMC | <strong>Full-stack Developer</strong> | <strong>Angular, Python, PostgreSQL React, Node, Flutter, MongoDB, TypeScript, JavaScript, TypeScript(MEAN Stack)</strong>. </li>
         <li>MEAN Stack specialist</li>
         <li>AI Developer</li>
+        <li>AI Expert</li>
       </ul>
       <h2>🎓 Education</h2>
       <p>
