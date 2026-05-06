@@ -175,11 +175,11 @@
         </tr>
         <tr>
           <td><a href="https://doi.org/10.1109/ICMSCI67830.2026.11469408">10.1109/ICMSCI67830.2026.11469408</a></td>
-          <td 
-            style="max-width:200px; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden;" 
-            title="FULL DESCRIPTION HERE"
-          >
-            This paper presents the reservoir management optimization problem for countries like Nepal. Nepal has the capacity to generate approximately 43 GW of clean hydropower. This paper focuses on maximizing energy production while meeting water demand and operational constraints. Since the water flow in these areas is seasonal, the problem is of a non-convex nature, and it also has nonlinear reservoir dynamics. This problem requires global optimization using classical methods like Steepest Descent, Quasi-Newton, and Conjugate Gradient with multi-start strategies. We have formulated the objective function, constraints, and 4 test cases that represent real-world conditions. The importance of optimizing hydropower scheduling lies in improving renewable energy production and sustainable water management. This study concludes that the QuasiNewton method offers a suitable solution with a balance of computational efficiency and quality of complex and constrained hydropower scheduling optimization problems.
+          <td>
+          <details>
+                <summary>Reservoir Management for Hydropower Optimization for Countries Like Nepal</summary>
+                This paper presents the reservoir management optimization problem for countries like Nepal. Nepal has the capacity to generate approximately 43 GW of clean hydropower. This paper focuses on maximizing energy production while meeting water demand and operational constraints. Since the water flow in these areas is seasonal, the problem is of a non-convex nature, and it also has nonlinear reservoir dynamics. This problem requires global optimization using classical methods like Steepest Descent, Quasi-Newton, and Conjugate Gradient with multi-start strategies. We have formulated the objective function, constraints, and 4 test cases that represent real-world conditions. The importance of optimizing hydropower scheduling lies in improving renewable energy production and sustainable water management. This study concludes that the QuasiNewton method offers a suitable solution with a balance of computational efficiency and quality of complex and constrained hydropower scheduling optimization problems.
+            </details>
           </td>
           <td>Aashique Karn, Nishant Kumar</td>
         </tr>
