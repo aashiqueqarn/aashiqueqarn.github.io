@@ -166,6 +166,20 @@
           github.com/aashiqueqarn
         </a>
       </p>
+      <h2>📄 Published Papers</h2>
+      <table border="1" cellpadding="6">
+        <tr>
+          <th>Link</th>
+          <th>Description</th>
+          <th>Authors</th>
+        </tr>
+        <tr>
+          <td><a href="https://doi.org/10.1109/ICMSCI67830.2026.11469408">10.1109/ICMSCI67830.2026.11469408</a></td>
+          <td>This paper presents the reservoir management optimization problem for countries like Nepal. Nepal has the capacity to generate approximately 43 GW of clean hydropower. This paper focuses on maximizing energy production while meeting water demand and operational constraints. Since the water flow in these areas is seasonal, the problem is of a non-convex nature, and it also has nonlinear reservoir dynamics. This problem requires global optimization using classical methods like Steepest Descent, Quasi-Newton, and Conjugate Gradient with multi-start strategies. We have formulated the objective function, constraints, and 4 test cases that represent real-world conditions. The importance of optimizing hydropower scheduling lies in improving renewable energy production and sustainable water management. This study concludes that the QuasiNewton method offers a suitable solution with a balance of computational efficiency and quality of complex and constrained hydropower scheduling optimization problems.
+</td>
+          <td>Aashique Karn, Nishant Kumar</td>
+        </tr>
+      </table>
       <h2>📈 GitHub Stats</h2>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashiqueqarn" />
       <br/><br/>
