@@ -115,54 +115,54 @@
           <th>Tech</th>
         </tr>
         <tr>
-          <td><a href="https://github.com/aashiqueqarn/Boat-in-a-river">Boat-in-a-river</a></td>
+          <td><a href="https://github.com/aashiqueqarn/Boat-in-a-river" target="_blank" rel="noopener noreferrer">Boat-in-a-river</a></td>
           <td>OpenGL in C For driving a boat in a river.</td>
           <td>C++, OpenGL</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/aashiqueqarn/WhatsAppBulkMessaging">WhatsAppBulkMessaging</a></td>
+          <td><a href="https://github.com/aashiqueqarn/WhatsAppBulkMessaging" target="_blank" rel="noopener noreferrer">WhatsAppBulkMessaging</a></td>
           <td>Messaging in bulk in whatsapp in an event.</td>
           <td>HTML, CSS, Tailwind, Javascript</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/aashiqueqarn/DichotomousSearchAlgorithm">DichotomousSearchAlgorithm</a></td>
+          <td><a href="https://github.com/aashiqueqarn/DichotomousSearchAlgorithm" target="_blank" rel="noopener noreferrer">DichotomousSearchAlgorithm</a></td>
           <td>A derivative free methods used for one dimension optimization.</td>
           <td>Python</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/aashiqueqarn/FibonacciSearchAlgorithm">FibonacciSearchAlgorithm</a></td>
+          <td><a href="https://github.com/aashiqueqarn/FibonacciSearchAlgorithm" target="_blank" rel="noopener noreferrer">FibonacciSearchAlgorithm</a></td>
           <td>Fibonacci Search is one of the Derivative free optimization technique.</td>
           <td>Python</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/aashiqueqarn/GoldenSectionSearchAlgorithm">GoldenSectionSearchAlgorithm</a></td>
+          <td><a href="https://github.com/aashiqueqarn/GoldenSectionSearchAlgorithm" target="_blank" rel="noopener noreferrer">GoldenSectionSearchAlgorithm</a></td>
           <td>A derivative free methods used for one dimension optimization.</td>
           <td>Python</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/aashiqueqarn/BisectionMethodAlgorithm">BisectionMethodAlgorithm</a></td>
+          <td><a href="https://github.com/aashiqueqarn/BisectionMethodAlgorithm" target="_blank" rel="noopener noreferrer">BisectionMethodAlgorithm</a></td>
           <td>A derivative free methods used for one dimension optimization.</td>
           <td>Python</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/aashiqueqarn/geneticAlgorithm">geneticAlgorithm</a></td>
+          <td><a href="https://github.com/aashiqueqarn/geneticAlgorithm" target="_blank" rel="noopener noreferrer">geneticAlgorithm</a></td>
           <td>Genetic Algorithm.</td>
           <td>Python, Pandas, Numpy</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/aashiqueqarn/rag-intro">rag-intro</a></td>
+          <td><a href="https://github.com/aashiqueqarn/rag-intro" target="_blank" rel="noopener noreferrer">rag-intro</a></td>
           <td>Implementation of Retrieval Augmentation Generation(RAG).</td>
           <td>Python, Langchain</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/aashiqueqarn/documentation-assistant">documentation-assistant</a></td>
+          <td><a href="https://github.com/aashiqueqarn/documentation-assistant" target="_blank" rel="noopener noreferrer">documentation-assistant</a></td>
           <td>It uses techniques like embeddings, VectorDbs, Retrival, Memory, etc.</td>
           <td>Python, Langchain</td>
         </tr>
       </table>
       <p>
         🔗 <b>All Repositories:</b>
-        <a href="https://github.com/aashiqueqarn?tab=repositories">
+        <a href="https://github.com/aashiqueqarn?tab=repositories" target="_blank" rel="noopener noreferrer">
           github.com/aashiqueqarn
         </a>
       </p>
@@ -174,7 +174,7 @@
           <th>Authors</th>
         </tr>
         <tr>
-          <td><a href="https://doi.org/10.1109/ICMSCI67830.2026.11469408">10.1109/ICMSCI67830.2026.11469408</a></td>
+          <td><a href="https://doi.org/10.1109/ICMSCI67830.2026.11469408" target="_blank" rel="noopener noreferrer">10.1109/ICMSCI67830.2026.11469408</a></td>
           <td>
           <details>
                 <summary>Reservoir Management for Hydropower Optimization for Countries Like Nepal</summary>
